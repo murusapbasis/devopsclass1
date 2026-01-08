@@ -1,1 +1,2 @@
 test text file
+appended the 2nd line
